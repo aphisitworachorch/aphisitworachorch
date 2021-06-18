@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="https://github.com/aphisitworachorch">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=aphisitworachorch&count_private=true&show_icons=true&theme=dracula"/>
   </a>
