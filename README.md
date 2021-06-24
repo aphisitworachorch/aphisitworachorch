@@ -10,5 +10,5 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphisitworachorch&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aphisitworachorch"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aphisitworachorch&theme=dracula"/>
   </p>
