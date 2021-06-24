@@ -1,6 +1,8 @@
 
 <p align="left">
-    <img height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&cover_image=true" onclick="window.location.href = 'https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&redirect=true'"/>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&redirect=true">
+        <img height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&cover_image=true"/>
+    </a>
     <img height="250em" src="https://github-readme-stats.vercel.app/api/?username=aphisitworachorch&count_private=true&show_icons=true"/>
 </p>
 <p align="left">
