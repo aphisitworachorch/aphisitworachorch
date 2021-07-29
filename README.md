@@ -1,4 +1,4 @@
-<h2 id="textofday" style="text-align:center;"></h2>
+<h2 style="text-align:center;"></h2>
 <p align="left">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&redirect=true">
         <img height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&cover_image=true"/>
@@ -12,10 +12,3 @@
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aphisitworachorch"/>
   </p>
-
-<script type="text/javascript">
-    let d = document.getElementById("textofday");
-    if(d){
-        d.innerText = "แม่กอดลูกไม่ยิ้มเลยคะ เป็นไรไม่คุยกับหนู";
-    }
-    </script>
