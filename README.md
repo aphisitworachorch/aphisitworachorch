@@ -1,4 +1,4 @@
-<h2 style="text-align:center;">แม่กอดลูกไม่ยิ้มเลยคะ เป็นไรไม่คุยกับหนู อย่าโกรธ ด่าได้ด่ากลับ</h2>
+<h2 style="text-align:center;">แม่กอดลูกไม่ยิ้มเลยคะ เป็นไรไม่คุยกับหนู อย่าโกรธ ด่าได้ด่ากลับ หาคอมมิทมาให้ตลอดนะแม่จ๋า</h2>
 <p align="left">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&redirect=true">
         <img height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=kg8nw2j0fwwgjvdxrjifa9zt8&cover_image=true"/>
