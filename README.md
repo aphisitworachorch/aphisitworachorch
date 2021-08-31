@@ -9,5 +9,5 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphisitworachorch&layout=compact&langs_count=8"/>
 </p>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aphisitworachorch"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aphisitworachorch"/>
   </p>
