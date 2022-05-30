@@ -6,3 +6,9 @@
     </ul>
     <a href="https://arsanandha.xyz/about">Click me ! (if you want to know more about me)</a>
 </div>
+<div style="text-align:center">
+    <h3>Stats</h3>
+    <div>
+        <img height="250em" src="https://github-readme-stats.vercel.app/api/?username=gitinun55&count_private=true&show_icons=true"/>
+    </div>
+</div>
